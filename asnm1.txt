@@ -1,0 +1,60 @@
+1) what are pros and cons of python?
+
+  *Pros of python
+  1. Easy to Learn & Read
+     Python syntax is simple like English, so beginners can learn it quickly
+
+  2. Large Community Support
+     A huge global developer community helps in solving problems faster
+
+  3. Rich Libraries & Frameworks
+     Libraries like NumPy, Pandas, TensorFlow, Django, Flask make development faster
+
+  4. Versatile Language
+     Used in Web Development, Data Science, Machine Learning, AI, Automation, Scripting, IoT and more
+
+  5. Platform Independent
+     Python code runs on Windows, Linux, and Mac without changes
+
+  6. Integration Friendly
+     Works well with C/C++/Java and databases; easy to integrate in projects
+
+  7. Rapid Development
+     You can build prototypes and applications faster compared to other languages
+
+
+  *Cons of python
+  1. Slower Speed
+     Python is slower than C/C++/Java because it is an interpreted language
+
+  2. Not Ideal for Mobile Apps
+     Python is not widely used for Android/iOS mobile app development
+
+  3. Higher Memory Usage
+     Programs written in Python often use more memory (not good for very large systems)
+
+  4. Global Interpreter Lock (GIL)
+     Makes multi-threading slower, limiting performance in CPU-heavy tasks
+
+  5. Weak in Browser/Front-end Development
+     You cannot run Python directly in browsers like JavaScript
+
+
+
+2) History of python
+ Python was created by Guido van Rossum in 1989 at the CWI (Centrum Wiskunde & Informatica) research center in the Netherlands. Guido wanted to design a programming 
+ language that was simple, easy to understand, and powerful. He started working on it as a hobby project during his Christmas holidays.
+
+ The first version, Python 0.9.0, was released in 1991. It already included features like functions, exception handling, and core data types, which made it unique and 
+ user-friendly.
+
+ In 1994, Python 1.0 was released, followed by Python 2.0 in 2000, which introduced automatic garbage collection and Unicode support. The language continued to grow 
+ and gained a large community.
+
+ Later, Python 3.0 was released in 2008 to remove the limitations and old designs of Python 2. It was not backward compatible, but it made Python cleaner and more 
+ efficient for modern applications.
+
+ Finally, on January 1, 2020, official support for Python 2 ended, and now Python 3 is the standard version used around the world.
+
+ Today, Python is one of the most popular and widely used programming languages, especially in data science, artificial intelligence, machine learning, web development,
+ and automation because of its simplicity, readability, and large library support.
