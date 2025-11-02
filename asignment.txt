@@ -1,0 +1,200 @@
+1) what are pros and cons of python?
+
+  *Pros of python
+  1. Easy to Learn & Read
+     Python syntax is simple like English, so beginners can learn it quickly
+
+  2. Large Community Support
+     A huge global developer community helps in solving problems faster
+
+  3. Rich Libraries & Frameworks
+     Libraries like NumPy, Pandas, TensorFlow, Django, Flask make development faster
+
+  4. Versatile Language
+     Used in Web Development, Data Science, Machine Learning, AI, Automation, Scripting, IoT and more
+
+  5. Platform Independent
+     Python code runs on Windows, Linux, and Mac without changes
+
+  6. Integration Friendly
+     Works well with C/C++/Java and databases; easy to integrate in projects
+
+  7. Rapid Development
+     You can build prototypes and applications faster compared to other languages
+
+
+  *Cons of python
+  1. Slower Speed
+     Python is slower than C/C++/Java because it is an interpreted language
+
+  2. Not Ideal for Mobile Apps
+     Python is not widely used for Android/iOS mobile app development
+
+  3. Higher Memory Usage
+     Programs written in Python often use more memory (not good for very large systems)
+
+  4. Global Interpreter Lock (GIL)
+     Makes multi-threading slower, limiting performance in CPU-heavy tasks
+
+  5. Weak in Browser/Front-end Development
+     You cannot run Python directly in browsers like JavaScript
+
+
+
+2) History of python
+ Python was created by Guido van Rossum in 1989 at the CWI (Centrum Wiskunde & Informatica) research center in the Netherlands. Guido wanted to design a programming 
+ language that was simple, easy to understand, and powerful. He started working on it as a hobby project during his Christmas holidays.
+
+ The first version, Python 0.9.0, was released in 1991. It already included features like functions, exception handling, and core data types, which made it unique and 
+ user-friendly.
+
+ In 1994, Python 1.0 was released, followed by Python 2.0 in 2000, which introduced automatic garbage collection and Unicode support. The language continued to grow 
+ and gained a large community.
+
+ Later, Python 3.0 was released in 2008 to remove the limitations and old designs of Python 2. It was not backward compatible, but it made Python cleaner and more 
+ efficient for modern applications.
+
+ Finally, on January 1, 2020, official support for Python 2 ended, and now Python 3 is the standard version used around the world.
+
+ Today, Python is one of the most popular and widely used programming languages, especially in data science, artificial intelligence, machine learning, web development,
+ and automation because of its simplicity, readability, and large library support.
+
+
+
+
+
+
+
+
+
+31/10/2025
+
+1. What is Python and why is it called an interpreted language?
+   Python is a high-level, general-purpose programming language that is widely used for tasks like web development, data science, machine learning, automation, artificial
+   intelligence, game development, and more.
+
+2. What are the key features of Python that make it popular for beginners and professionals?
+    1. Simple and Easy-to-Read Syntax
+    Python code looks close to English.
+    This makes it easier to understand, write, and learn—especially for beginners.
+
+    2. Interpreted Language
+    Python does not need to be compiled.
+    You can run code directly, which makes development and testing quick and efficient.
+
+    3. High-Level Language
+    You don’t need to worry about memory management, hardware details, or complex internal operations.
+    Python handles these automatically.
+
+    4. Large Standard Library
+    Python comes with many built-in modules for tasks like:
+
+    Math
+    File handling
+    Networking
+    Data processing
+
+    5. Cross-Platform Support
+    Python works on:
+    Windows
+    macOS
+    Linux
+    Mobile & Cloud Platforms
+    Write code once → Run anywhere (with Python installed).
+
+   6. Object-Oriented + Functional Programming
+   Python supports:
+   OOP (classes & objects)
+   Functional programming (lambda, map, filter)
+   Procedural programming
+   This flexibility helps professionals design large-scale applications.
+
+   7. Huge Community and Support   
+   Python has a very large global community, so:
+   Plenty of tutorials and online help
+   Libraries for almost everything
+   Easy to find solutions to errors
+
+   8. Extensive Libraries and Frameworks
+   Python is powerful because of its ready-made libraries:
+
+   9. Suitable for Rapid Application Development
+   Python lets you prototype quickly.
+   This saves time in startups, research, and corporate projects.
+
+   10. Open Source and Free
+   Python is free to download, use, and distribute.
+   No license cost → widely adopted in education & industry.
+
+
+3. What is the difference between Python 2 and Python 3?
+   Python 2 and Python 3 differ mainly in syntax and functionality. Python 3 uses print() function, supports Unicode by default, and performs true division. Python 2 
+   is outdated and no longer maintained, while Python 3 is the current and widely used version.
+
+4. What are Python’s applications in real-world projects?
+   Web Development
+   Python provides frameworks such as Django, Flask, and FastAPI to build secure, scalable, and dynamic web applications.
+
+   Data Science and Data Analysis
+   Python is heavily used in analyzing, visualizing, and processing data using libraries like Pandas, NumPy, and Matplotlib.
+
+   Machine Learning and Artificial Intelligence
+   Python is the most popular language for developing ML/AI models using TensorFlow, PyTorch, Scikit-Learn, and Keras.
+
+   Automation and Scripting
+   Python is often used to automate repetitive tasks such as file handling, data entry, testing, and report generation.
+
+   Game Development
+   Game engines like Pygame are used to create simple 2D games, while Python is also used for AI scripts in larger game engines.
+
+   Desktop Application Development
+   Tools like Tkinter, PyQt, and Kivy allow developers to build GUI-based desktop software.
+
+   Networking and Cybersecurity
+   Python is used to create network tools, security testing scripts, malware analysis, and penetration testing (ex: Nmap, Scapy).
+
+   Cloud Computing and DevOps
+   Python is used in automation tools, configuration management, and cloud APIs (AWS, Azure, GCP) for building scalable applications.
+
+   Internet of Things (IoT)
+   Python can run on small hardware like Raspberry Pi to build IoT systems, smart devices, and automation sensors.
+
+5. What is PEP 8 and why is it important in Python programming?
+   PEP 8 (Python Enhancement Proposal 8) is the official style guide for writing Python code.
+   It provides rules and best practices on how to format Python programs to make them clean, readable, and consistent.
+
+   Why is PEP 8 Important?
+   *Improves Code Readability
+   By following PEP 8 rules, Python code becomes easier to read and understand for everyone.
+
+   *Maintains Consistency
+   When many developers work on the same project, PEP 8 ensures the code style remains uniform.
+
+   *Makes Debugging Easier
+   Clean and properly formatted code helps identify and fix errors faster.
+
+   *Professional Coding Standard
+   Following PEP 8 shows you write code in a standard and professional manner.    
+
+
+6. Who developed Python and in which year was it released?
+   Python was developed by Guido van Rossum, a Dutch programmer.
+   It was first released in the year 1991.
+
+
+7. What do you mean by “dynamically typed” in Python?
+   Python is called a dynamically typed language because you do not need to declare the data type of a variable when you create it.
+   The type is decided automatically at runtime, based on the value assigned to the variable.
+
+
+8. What is the difference between a compiler and an interpreter, and which does Python use?
+   Feature	        Compiler	                                                          Interpreter
+   Translation Method	Converts the entire program into machine code at once.	                  Translates and executes code line-by-line.
+   Execution Speed	Faster after compilation because the machine code is already generated.	  Slower because each line is interpreted during execution.
+   Error Detection	Shows all errors after compilation.	                                  Shows one error at a time while running.
+   Memory Usage	        Requires more memory to store machine code.	                          Requires less memory.
+   Examples	        C, C++, Java (with JVM).	                                          Python, JavaScript, PHP.
+
+  
+
+
