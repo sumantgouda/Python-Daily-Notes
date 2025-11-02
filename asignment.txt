@@ -188,13 +188,14 @@
 
 
 8. What is the difference between a compiler and an interpreter, and which does Python use?
-   Feature	        Compiler	                                                          Interpreter
-   Translation Method	Converts the entire program into machine code at once.	                  Translates and executes code line-by-line.
-   Execution Speed	Faster after compilation because the machine code is already generated.	  Slower because each line is interpreted during execution.
-   Error Detection	Shows all errors after compilation.	                                  Shows one error at a time while running.
-   Memory Usage	        Requires more memory to store machine code.	                          Requires less memory.
-   Examples	        C, C++, Java (with JVM).	                                          Python, JavaScript, PHP.
+   Feature	                 Compiler	                                                             Interpreter
+   Translation Method	      Converts the entire program into machine code at once.	              Translates and executes code line-by-                                                                                                     line.
+   Execution Speed	Faster   after compilation because the machine code is already generated.	    Slower because each line is interpreted                                                                                                   during execution.
+   Error Detection	         Shows all errors after compilation.	                                 Shows one error at a time while running.
+   Memory Usage	            Requires more memory to store machine code.	                         Requires less memory.
+   Examples	                C, C++, Java (with JVM).	                                            Python, JavaScript, PHP.
 
   
+
 
 
